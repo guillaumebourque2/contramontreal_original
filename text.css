@@ -1,0 +1,40 @@
+﻿body {
+				font-family: "Trebuchet MS", Verdana, Sans-serif;
+				font-size: medium;
+				line-height: normal;
+}
+h2 {
+	color: Black;
+	font-size: large;
+}
+h3 {color: Black;  font-size: medium;  }
+
+/*
+These color rules need to coincide with body attributes to work in NN4
+
+*/
+a, a:link {
+	color: #339;
+	font-weight: bold;
+	text-decoration: none;
+	}
+
+a:visited {
+	color: #669;
+	}
+
+a:hover {
+	background-color: #fff;
+	color: #339;
+	text-decoration: underline;
+	}
+
+
+.newStyle1 {
+				font-size: medium;
+}
+body {
+				font-size: medium;
+}
+
+
